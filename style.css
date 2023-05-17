@@ -62,7 +62,9 @@ header{
     
 }
 
-
+.wrapper sp{
+    margin-left: 3rem;
+}
 
 .wrapper i{
     cursor: pointer;
